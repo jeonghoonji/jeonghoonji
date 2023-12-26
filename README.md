@@ -22,6 +22,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
 ### 🏃 Projects
 
 - **📷 Grain** : 필름 사진을 좋아하는 유저들과 사진을 공유하고, 필름 사진에 담긴 정보와 이야기를 공유할수 있는 앱입니다. [[GitHub](https://github.com/APPSCHOOL1-REPO/finalproject-grain)][[앱스토어링크](https://apps.apple.com/kr/app/grain-%EA%B7%B8%EB%A0%88%EC%9D%B8-%ED%95%84%EB%A6%84-%EC%B9%B4%EB%A9%94%EB%9D%BC-%EA%B0%90%EC%84%B1-sns/id6446666081)]
+- **🍊 몽모리마니** : 제주 가족 여행객을 위한 생성형 AI 키즈존 여행 일정 추천 서비스 앱입니다. [[GitHub](https://github.com/Mongmori8th/Mongmori8th_iOS)][[앱스토어링크](https://apps.apple.com/us/app/%EB%AA%BD%EB%AA%A8%EB%A6%AC%EB%A7%88%EB%8B%88/id6473462854)]
 
 
 ### 🙋🏻‍♂️ Experiences
